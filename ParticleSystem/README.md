@@ -30,21 +30,21 @@ Navigate to the particle-simulation folder, and open the project in your chosen 
 Build and Run: Once the project is open in your IDE, build and run it as you would with any openFrameworks project.
 
 
-### Usage
+## Usage
 - Interaction: The particles are attracted to the mouse position within the window. Moving the mouse will change the direction and force applied to the particles.
 - Particle Lifespan: Particles have a lifespan that decreases over time. When their lifetime reaches zero, they "die" and are reset to a new position.
 - Gravity: Each particle is affected by gravity, which pulls them downwards. The strength of gravity can vary for each particle.
 
-#### Performance Tips
+## Performance Tips
 If you are experiencing performance issues, try reducing the number of particles by lowering the numParticles variable.
 The simulation is optimized for high performance, but the number of particles and the complexity of the physics can still affect frame rate.
 
-#### ScreenShot
+## ScreenShot
 
 
-#### Acknowledgments
+## Acknowledgments
 This project uses openFrameworks, a powerful creative coding framework.
 Special thanks to the openFrameworks community for providing helpful resources and support.
 
-### License
+## License
 This project is open source and available under the MIT License. 
