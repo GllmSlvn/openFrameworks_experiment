@@ -40,7 +40,7 @@ If you are experiencing performance issues, try reducing the number of particles
 The simulation is optimized for high performance, but the number of particles and the complexity of the physics can still affect frame rate.
 
 ## ScreenShot
-
+![out](https://github.com/user-attachments/assets/b1976241-7a29-47b2-8447-24fb0ac91013)
 
 ## Acknowledgments
 This project uses openFrameworks, a powerful creative coding framework.
